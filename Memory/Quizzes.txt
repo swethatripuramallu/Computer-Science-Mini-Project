@@ -1,0 +1,126 @@
+2
+true
+false
+T
+I
+a
+Is intel still creating chips?
+
+true
+M
+II
+a
+How many bits are stored in an int
+16,8,4,32
+16
+F
+III
+b
+_ created TempleOS.
+
+terry a. davis
+M
+IV
+c
+How many bits do you need to represent 128 by flipping only one bit (answer is unsigned)?
+4,6,7,8
+8
+F
+V
+b
+_ is the creator of Linux
+
+linus torvalds
+T
+VI
+b
+James Gosling is the founder of the Java language.
+
+true
+M
+VII
+c
+In Java, what is the term for something that is passed to a method?
+parameter,argument,boolean,object
+argument
+T
+VIII
+b
+In computing, colors are represented with octal values.
+
+false
+M
+IX
+b
+Who is the creator of python?
+Guido van Rossum,Yukihiro Matsumoto,Bjarne Stroustrup,Linus Torvalds
+guido van rossum
+F
+X
+b
+Sun _ is responsible for the creation of java.
+
+microsystems
+3
+true
+false
+T
+I
+a
+Is the earth round?
+
+true
+M
+II
+a
+How many tires are on a car?
+1,2,3,4
+4
+F
+III
+b
+_ created TempleOS.
+
+terry a. davis
+M
+IV
+c
+How many bits do you need to represent 128 by flipping only one bit (answer is unsigned)?
+4,6,7,8
+8
+F
+V
+b
+_ is the creator of Linux
+
+linus torvalds
+T
+VI
+b
+James Gosling is the founder of the Java language.
+
+true
+M
+VII
+c
+In Java, what is the term for something that is passed to a method?
+parameter,argument,boolean,object
+argument
+T
+VIII
+b
+In computing, colors are represented with octal values.
+
+false
+M
+IX
+b
+Who is the creator of python?
+Guido van Rossum,Yukihiro Matsumoto,Bjarne Stroustrup,Linus Torvalds
+guido van rossum
+F
+X
+b
+Sun _ is responsible for the creation of java.
+
+microsystems

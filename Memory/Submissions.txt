@@ -1,0 +1,112 @@
+438, Quiz 2: 0/11 Time: MAY 2, 2022 at 14:57:02
+    Question 6: 0/2
+    Student Answer:false
+    Correct Answer:true    
+    Question 4: 0/3
+    Student Answer:7
+    Correct Answer:8    
+    Question 8: 0/2
+    Student Answer:true
+    Correct Answer:false    
+    Question 3: 0/2
+    Student Answer:Answer Here
+    Correct Answer:terry a. davis    
+    Question 5: 0/2
+    Student Answer:Answer Here
+    Correct Answer:linus torvalds
+438, Quiz 3: 7/11 Time: MAY 2, 2022 at 15:41:29
+    Question 7: 3/3
+    Student Answer:argument
+    Correct Answer:argument
+    Question 1: 1/1
+    Student Answer:true
+    Correct Answer:true
+    Question 5: 0/2
+    Student Answer:Answer Here
+    Correct Answer:linus torvalds
+    Question 3: 0/2
+    Student Answer:Answer Here
+    Correct Answer:terry a. davis
+    Question 4: 3/3
+    Student Answer:8
+    Correct Answer:8
+438, Quiz 1: 2/10 Time: MAY 2, 2022 at 16:31:22
+    Question 2: 0/1
+    Student Answer:3
+    Correct Answer:4
+    Question 3: 0/2
+    Student Answer:Answer Here
+    Correct Answer:terry a. davis
+    Question 8: 0/2
+    Student Answer:true
+    Correct Answer:false
+    Question 6: 2/2
+    Student Answer:true
+    Correct Answer:true
+    Question 4: 0/3
+    Student Answer:6
+    Correct Answer:8
+777, Quiz 1: 6/10 Time: MAY 2, 2022 at 16:47:52
+    Question 1: 1/1
+    Student Answer:true
+    Correct Answer:true
+    Question 10: 0/2
+    Student Answer:Microsystems
+    Correct Answer:microsystems
+    Question 6: 2/2
+    Student Answer:true
+    Correct Answer:true
+    Question 5: 0/2
+    Student Answer:Linus Torvalds
+    Correct Answer:linus torvalds
+    Question 4: 3/3
+    Student Answer:8
+    Correct Answer:8
+777, Quiz 2: 5/11 Time: MAY 2, 2022 at 16:50:23
+    Question 9: 0/2
+    Student Answer:Guido van Rossum
+    Correct Answer:guido van rossum
+    Question 4: 3/3
+    Student Answer:8
+    Correct Answer:8
+    Question 3: 0/2
+    Student Answer:teRRy a. davis
+    Correct Answer:terry a. davis
+    Question 6: 2/2
+    Student Answer:true
+    Correct Answer:true
+    Question 5: 0/2
+    Student Answer:linus Torvalds
+    Correct Answer:linus torvalds
+777, Quiz 3: 10/10 Time: MAY 2, 2022 at 16:52:34
+    Question 1: 1/1
+    Student Answer:true
+    Correct Answer:true
+    Question 5: 2/2
+    Student Answer:linus torvAlds
+    Correct Answer:linus torvalds
+    Question 3: 2/2
+    Student Answer:terry A. davis
+    Correct Answer:terry a. davis
+    Question 10: 2/2
+    Student Answer:Microsystems
+    Correct Answer:microsystems
+    Question 7: 3/3
+    Student Answer:argument
+    Correct Answer:argument
+434, Quiz 1: 8/10 Time: MAY 2, 2022 at 17:25:21
+    Question 7: 3/3
+    Student Answer:argument
+    Correct Answer:argument
+    Question 10: 2/2
+    Student Answer:microsystems
+    Correct Answer:microsystems
+    Question 6: 2/2
+    Student Answer:true
+    Correct Answer:true
+    Question 1: 1/1
+    Student Answer:true
+    Correct Answer:true
+    Question 8: 0/2
+    Student Answer:true
+    Correct Answer:false

@@ -1,4 +1,3 @@
-# Computer-Science-Mini-Project
 # README
 ## Instructions
   - compile using: javac *.java
